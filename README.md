@@ -4,8 +4,8 @@
 
 ### I'm...
 𖥔 a second-year Computer Science with Artificial Intelligence student.  
-𖥔 passionate about Natural Language Processing (NLP) and data-driven software development in general.  
-𖥔 currently experimenting with multilingual NLP, as well as PyTorch for audio processing.  
+𖥔 passionate about data-driven software development.  
+𖥔 currently experimenting with multilingual Natural Language Processing (NLP), as well as PyTorch for audio processing.  
 𖥔 actively applying Agile principles to full-stack development.  
 ***
 ### tech stack & tools 🧩
